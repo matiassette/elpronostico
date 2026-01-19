@@ -1,0 +1,1 @@
+Este proyecto solo tien 2 archivos que es el main yel estilo donde en uno se muetra el frton que seria la parte donde esta todo el codigo y su estilo que es lo visual lo que se ve presentable sin eso se veria todo en cascada
